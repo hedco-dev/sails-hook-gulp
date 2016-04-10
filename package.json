@@ -1,0 +1,25 @@
+{
+  "name": "sails-hook-gulp2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "sails": {
+    "isHook": true
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hedco-dev/sails-hook-gulp.git"
+  },
+  "author": "HEDCo - Software Department",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hedco-dev/sails-hook-gulp/issues"
+  },
+  "homepage": "https://github.com/hedco-dev/sails-hook-gulp#readme",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}
